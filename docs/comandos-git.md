@@ -12,3 +12,16 @@ git init
 git remote add origin
 https://github.com/Zack25Foster40/back_nest_angularRP.git
 ````
+# Validar referencia
+````
+git remote -v
+````
+--------------------
+```
+git add .
+git commit -m "clase 7"
+git put origin master
+```
+- Para forzar
+
+git push -f origin master
